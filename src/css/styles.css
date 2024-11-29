@@ -1,0 +1,128 @@
+nav{
+    text-align: justify;
+    background-color: rgb(52, 44, 44);
+    padding-bottom: 2px;
+    margin-top: 0px;
+}
+nav ul{
+    display: flex;
+    margin-left: 4%;
+    
+   margin-top: 0px;
+    
+}
+li{
+    list-style: none;
+    margin-left: 5px;
+    background-color: rgb(108, 196, 19);
+    padding:6px;
+    text-align: center;
+    
+    
+   
+}
+nav a{
+     text-decoration: none;
+     color: white;
+     
+}
+a{
+    color:rgb(108, 196, 19);
+}
+h1{
+    color: rgb(209, 136, 0);
+    font-size: 50px;
+    margin-left: 7.5%;
+    margin-top: 2px;
+   
+}
+em{
+    font-style: normal;
+    color: white;
+}
+
+body{
+    margin: 0px;
+}
+h2{
+    color: rgb(83, 150, 16);  
+}
+
+
+
+.imagegallery {
+    width: 60px;
+    display: flex;
+    margin-right: 50px;
+
+}
+.imagegallery img{
+    margin: 5px; 
+    height: 60px;
+
+
+}
+.imagegallery1{
+    width: 60px;
+    margin: 5px;
+    height: 60px;
+    
+
+
+}
+.about{
+    display: flex;
+    padding-right: 5px;
+    width: 300px;
+    text-align: justify;
+    
+    
+
+}
+
+
+.footer1{
+    display: flex;
+    margin-left: 7%;
+    text-align: justify;
+    
+    margin-bottom: 0px;
+    margin-left: 7%px;
+    color: rgba(255, 255, 255, 0.626);
+    
+}
+.footer2{
+    background-color: rgb(7, 5, 5);
+    margin: 0px;
+    color: rgba(255, 255, 255, 0.666);
+    display: flex;
+    
+}
+footer li{
+
+    margin-top: 10px;
+    background-color: black;
+    
+}
+footer ul{
+    margin-left: 50%;
+}
+footer p{
+    margin-left: 7%;
+}
+.footer3{
+    background-color: rgb(52, 44, 44) ;
+    display:flex;
+    
+}
+.section3{
+    margin-right: 60px;
+}
+.para1{
+    margin: 0px; 
+    width: 260px;
+    margin-bottom: 60px;
+
+    
+}
+
